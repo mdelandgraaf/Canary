@@ -21,19 +21,6 @@ It runs a believable FTP façade with PASV data connections (supports `LIST` and
 
 ---
 
-## Project layout (suggested)
-
-```
-canary-honeypot/
-├─ src/
-│  └─ canary_honeypot.ino      # the ESP32 sketch
-├─ platformio.ini              # optional PlatformIO project file
-├─ README.md
-└─ LICENSE
-```
-
----
-
 ## Hardware
 
 - **ESP32 dev board** (e.g. ESP32-DevKitC / DOIT ESP32 DEVKIT V1)
